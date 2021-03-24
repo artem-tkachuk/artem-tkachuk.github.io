@@ -11,7 +11,7 @@ title                    : "Artem Tkachuk"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://artem-tkachuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://artem-tkachuk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "artem-tkachuk/artem-tkachuk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -100,7 +100,7 @@ interested in pursuing machine learning-related research."
   github           : "artem-tkachuk"
   google_plus      :
   keybase          :
-  instagram        :
+  medium           : "artem-tkachuk"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   spotify          : "31qitq2rtjexw4jw2kic2pqhetai"
   linkedin         : "artemtkachuk"
