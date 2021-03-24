@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Artem Tkachuk"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Artem Tkachuk"
 description              : &description "personal description"
 url                      : "https://artem-tkachuk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Artem Tkachuk"
   avatar           : "profile.png"
-  bio              : "An international junior student at University of California, Berkeley studying computer science & applied math,
+  bio              : "An international undergraduate junior student at University of California, Berkeley studying computer science & applied math,
 interested in pursuing machine learning-related research."
   location         : "Berkeley, CA / Moscow, RU"
   university       : "University of California, Berkeley"
